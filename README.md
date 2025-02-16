@@ -24,4 +24,3 @@ https://t.me/YokaiLabs
 - You need to manually collect tokens from your extensions and enter them line by line into the accounts.txt file:
 - The tokens are in the request after connecting to the node: click on the extension -> inspect -> Network tab -> Connect node -> In the request payload -> Your token.
 
-Translated with DeepL.com (free version)
